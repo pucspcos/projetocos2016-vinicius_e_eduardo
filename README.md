@@ -5,3 +5,6 @@ O jogo se trata de um projeto acadêmico do Curso Superior de Tecnologia em Jogo
 
 Versão Online: 
 https://pucspcos.github.io/projetocos2016-vinicius_eduardo_e_luis/
+
+Versão no Twine:
+https://esmonteiro.itch.io/dia-catico
